@@ -1,5 +1,7 @@
 # My blog - personal blog
 
+http://mandy6720.github.io/my-blog
+
 ## Made with: 
 - gatsby-starter-blog
 - gatsby-plugin-sass
