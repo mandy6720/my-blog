@@ -1,4 +1,10 @@
-# gatsby-starter-blog
+# My blog - personal blog
+
+## Made with: 
+- gatsby-starter-blog
+- gatsby-plugin-sass
+
+#gatsby-starter-blog (original docs)
 Gatsby starter for creating a blog
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:

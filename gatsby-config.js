@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/my-blog`,
   siteMetadata: {
     title: "Old Town for Millenials",
     author: "Amanda Bozzi",
