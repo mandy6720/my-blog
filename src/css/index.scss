@@ -1,0 +1,39 @@
+$millenial-pink: #fbd2d7;
+$light-pink: #ffe9ec;
+
+body {
+  background: $light-pink;
+}
+
+a {
+  text-decoration: none;
+  color: #222;
+}
+
+#header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+#navbar {
+  width: 100%;
+  background-color: $millenial-pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  ul {
+    list-style-type: none;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    width: 80%;
+    li {
+      display: inline-block;
+      margin-bottom: 0;
+    }
+  }
+}
