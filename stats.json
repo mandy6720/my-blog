@@ -1,0 +1,12 @@
+{
+  "assetsByChunkName": {
+    "commons": [
+      "commons-cbf9290b73543b2bc412.js",
+      "commons-cbf9290b73543b2bc412.js.map"
+    ],
+    "app": [
+      "app-b7164d8a29f0c797560c.js",
+      "app-b7164d8a29f0c797560c.js.map"
+    ]
+  }
+}
